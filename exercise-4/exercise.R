@@ -27,10 +27,10 @@ basic.scatterplot
 # markers are size 10, of a color of your choice.  Finally change the boarder,
 # of the markers to a differnet color with a widthe of 2
 styled.scatterplot <- plot_ly(data = plot.data, x = x, y = y, 
-  marker = list(size = 10,
-    color = 'rgba(255, 182, 193, .9)',
-    line = list(color = 'rgba(152, 0, 0, .8)',
-          width = 2)))%>% 
+                              marker = list(size = 10,
+                                            color = 'rgba(255, 182, 193, .9)',
+                                            line = list(color = 'rgba(152, 0, 0, .8)',
+                                                        width = 2)))%>% 
   layout(title = 'Styled Scatter',
          yaxis = list(zeroline = FALSE),
          xaxis = list(zeroline = FALSE))

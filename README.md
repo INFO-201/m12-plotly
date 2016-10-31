@@ -3,8 +3,16 @@
 ## Overview
 In this module, you'll start building visualizations using the Plotly API. Plotly is a visualization software that recently open-sourced it's API to JavaScript, MatLab, Python, and R, making it quite valuable to learn. Plotly graphs are fairly customizable, and (by default) have a variety of interactive methods with each chart (i.e., hover, brush to zoom, pan, etc.). Many of these events are fairly cumbersome to build programmatically, which makes a library like Plotly quite attractive.
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Contents**
+
+- [Resources](#resources)
+- [Getting Started](#getting-started)
+- [Basic Charts](#basic-charts)
+- [Layout](#layout)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Resources
 - [Plotly Website](https://plot.ly/)
